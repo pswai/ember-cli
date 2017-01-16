@@ -123,7 +123,7 @@
     "tree-sync": "^1.2.1",
     "uuid": "^3.0.0",
     "walk-sync": "^0.3.0",
-    "webpack": "^1.13.2",
+    "webpack": "2.2.0-rc.6",
     "yam": "0.0.22"
   },
   "devDependencies": {
