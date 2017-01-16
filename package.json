@@ -37,6 +37,9 @@
   },
   "dependencies": {
     "amd-name-resolver": "0.0.6",
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
     "bower-config": "^1.3.0",
     "bower-endpoint-parser": "0.2.2",
     "broccoli-babel-transpiler": "^5.6.2",
@@ -68,6 +71,7 @@
     "ember-cli-normalize-entity-name": "^1.0.0",
     "ember-cli-preprocess-registry": "^3.0.0",
     "ember-cli-string-utils": "^1.0.0",
+    "ember-templates-loader": "^1.13.0",
     "ember-try": "^0.2.9",
     "ensure-posix-path": "^1.0.2",
     "escape-string-regexp": "^1.0.3",
@@ -86,6 +90,7 @@
     "heimdalljs-fs-monitor": "^0.1.0",
     "heimdalljs-graph": "^0.3.1",
     "heimdalljs-logger": "^0.1.7",
+    "html-webpack-plugin": "^2.24.0",
     "http-proxy": "^1.9.0",
     "inflection": "^1.7.0",
     "is-git-url": "^0.2.0",
@@ -118,6 +123,7 @@
     "tree-sync": "^1.2.1",
     "uuid": "^3.0.0",
     "walk-sync": "^0.3.0",
+    "webpack": "^1.13.2",
     "yam": "0.0.22"
   },
   "devDependencies": {
